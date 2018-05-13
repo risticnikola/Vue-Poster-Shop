@@ -11,11 +11,11 @@
 #### To run this app
 
      - Clone the repository and run `npm i[nstall]`
-     - Register/Login in Imgur and get your API key
+     - Register/Login on Imgur and get your API key
      - run `cp .env_sample .env` and assign API key to IMGUR_CLIENT_ID variable
      - Run `npm start serve` (your website should be available at localhost:3000)
 
  s#### Note
 
-    This app is build following The Ultimate Vue.js Developers Course
+    This app is build by following The Ultimate Vue.js Developers Course
     Backend part was already preconfigured 
