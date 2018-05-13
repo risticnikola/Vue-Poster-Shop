@@ -15,7 +15,7 @@
      - run `cp .env_sample .env` and assign API key to IMGUR_CLIENT_ID variable
      - Run `npm start serve` (your website should be available at localhost:3000)
 
- s#### Note
+ #### Note
 
     This app is build by following The Ultimate Vue.js Developers Course
     Backend part was already preconfigured 
